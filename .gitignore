@@ -1,0 +1,14 @@
+*.npy
+*.zip
+*.7z
+*.tar.gz
+
+*.h5
+*.bin
+
+data/
+
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/

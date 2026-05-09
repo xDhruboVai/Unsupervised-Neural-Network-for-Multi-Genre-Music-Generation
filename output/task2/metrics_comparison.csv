@@ -1,0 +1,6 @@
+Metric,Task 1 (Autoencoder),Task 2 (VAE)
+Reconstruction Loss (Test),N/A,0.0475
+Rhythm Diversity (Real),N/A,0.6500
+Rhythm Diversity (Generated),N/A,0.1481
+Human Score — Mean (1-5),N/A,2.84
+Human Score — Std,N/A,1.55

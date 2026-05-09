@@ -1,0 +1,13 @@
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+pretty_midi
+mido
+tqdm
+tables
+seaborn
+matplotlib
