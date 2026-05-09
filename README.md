@@ -1,4 +1,5 @@
-**Project Resources:** [Google Drive Folder](https://drive.google.com/drive/folders/1i__ie7kPIMU3N3Ew-3vY23F4RXuvDX6V?usp=sharing)
+**Generated Midis:** [Google Drive Folder](https://drive.google.com/drive/folders/1i__ie7kPIMU3N3Ew-3vY23F4RXuvDX6V?usp=sharing)
+**Report:** [Google Drive Folder](https://drive.google.com/file/d/1J2Gs-hl2Os3AsI-J-n3beCLFst7i8ruA/view?usp=sharing)
 
 # CSE425 Project: Generative Piano Music with MAESTRO
 
